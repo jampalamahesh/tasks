@@ -1,0 +1,46 @@
+.container{
+	border: 3px solid black;
+	width: 100%;
+	height: 104px;
+
+}
+.one{
+	background-color: red;
+	width: 18%;
+	height: 100px;
+	float: left;
+
+}
+.sub1{
+	width: 8%;
+	height: 100px;
+	float: left;
+}
+.two{
+	width: 18%;
+	background-color: red;
+	height: 100px;
+	float: left;
+}
+.sub2{
+	width: 10%;
+	height: 100px;
+	float: left;
+}
+.three{
+	width: 18%;
+	background-color: red;
+	height: 100px;
+	float: left;
+}
+.sub3{
+    width: 10%;
+	height: 100px;
+	float: left;
+}
+.four{
+	width: 18%;
+	background-color: red;
+	height: 100px;
+	float: left;
+}

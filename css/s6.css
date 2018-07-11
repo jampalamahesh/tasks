@@ -1,0 +1,17 @@
+.container{
+	border: 3px solid blue;
+	height: 100px;
+	width: 100%;
+}
+.one{
+	background-color: red;
+	width: 30%;
+	float: left;
+	height: 98px;
+}
+.two{
+	background-color: black;
+	width: 70%;
+	height: 98px;
+	float: left;
+}

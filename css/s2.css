@@ -1,0 +1,25 @@
+.main{
+	width: 100%;
+	border-color: 1px solid black;
+	border-collapse: collapse;
+}
+.left{
+	background-color: blue ;
+	border: 5px dotted green;
+	 border-style: dotted;
+	float: left;
+	width: 48%;
+	height: 200px;
+	
+
+}
+.right{
+ background-color: green;
+ border: 5px dotted blue;
+ border-style: dotted;
+ float: right;
+ width: 48%;
+ height: 200px;
+
+}
+

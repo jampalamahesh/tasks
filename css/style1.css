@@ -1,0 +1,20 @@
+#a{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+#b{
+    
+    width: 200px;
+    height: 201px;
+    background-color: yellow;
+  
+    position:absolute;
+      top:200px;
+      left: 200px;
+}
+#c{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}

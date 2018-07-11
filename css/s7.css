@@ -1,0 +1,28 @@
+.head {
+
+    height: 100px;
+    border: 1px solid;
+
+}
+.parent {
+
+    width: 20%;
+    float: left;
+
+}
+.child {
+
+    height: 120px;
+    border: 1px solid;
+    margin: 10px auto;
+
+}
+.middle {
+
+    width: 57%;
+    border: 1px solid;
+    float: left;
+    height: 384px;
+    margin: 10px;
+
+}

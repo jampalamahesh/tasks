@@ -1,0 +1,14 @@
+#b{
+   
+    width: 741px;
+    height: 346px;
+    background-color: red;
+    
+}
+#c{position: relative;
+    width: 200px;
+    height: 344px;
+    background-color:green;
+    left: 750px;
+    bottom: 345px;
+}

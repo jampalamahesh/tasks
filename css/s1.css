@@ -1,0 +1,31 @@
+{
+	padding: 0px;
+	margin: 1px solid-black auto;
+}
+#main {
+	width:500px;
+	background-color: red;
+}
+#d1{
+	width:500px;
+	clear: both;
+}
+#left {
+	width:150px;
+	background-color: green;	
+	height: 300px;
+	float: left
+}
+#right {
+	width:350px;
+	background-color: blue;
+	float: right;
+	height:300px;
+}
+#clear {
+    clear: both;
+}
+#bottom{
+	background-color:pink;
+	width:  500px
+}

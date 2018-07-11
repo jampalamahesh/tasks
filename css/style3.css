@@ -1,0 +1,18 @@
+#a{
+    position: static;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+#b{
+   
+    width: 200px;
+    height: 201px;
+    background-color: yellow;
+    
+}
+#c{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}

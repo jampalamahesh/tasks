@@ -1,0 +1,55 @@
+.parent{
+	width: 200px;
+	height: 320px;
+	background-color: solid black;
+}
+.paren1t {
+    border: 2px solid;
+    height: 351px;
+    width: 51%;
+    background-color: darkorange;
+}
+.parent2 {
+
+    border: 1px solid;
+    height: 286px;
+    width: 38%;
+    position: absolute;
+    top: 35px;
+    left: 64px;
+    background-color: chocolate;
+
+}
+.parent3 {
+
+    border: 1px solid;
+    height: 201px;
+    width: 29%;
+    position: absolute;
+    top: 72px;
+    left: 107px;
+    background-color: coral;
+
+}
+.parent4 {
+
+    border: 1px solid;
+    height: 140px;
+    width: 21%;
+    position: absolute;
+    top: 97px;
+    left: 145px;
+    background-color: burlywood;
+
+}
+.parent5 {
+
+    top: 131px;
+    left: 198px;
+    border: 1px solid;
+    height: 72px;
+    position: absolute;
+    width: 10%;
+    background-color: bisque;
+
+}
